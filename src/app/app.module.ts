@@ -21,10 +21,11 @@ import { ConfirmDialogModule } from 'primeng/confirmdialog';
 import { ColorPickerModule } from 'primeng/colorpicker';
 import { ContextMenuModule } from 'primeng/contextmenu';
 import { DataViewModule } from 'primeng/dataview';
-import { DataScrollerModule } from 'primeng/datascroller';
+import { VirtualScrollerModule } from 'primeng/virtualscroller';
 import { DialogModule } from 'primeng/dialog';
 import { DragDropModule } from 'primeng/dragdrop';
 import { DropdownModule } from 'primeng/dropdown';
+import { DynamicDialogModule } from 'primeng/dynamicdialog';
 import { EditorModule } from 'primeng/editor';
 import { FieldsetModule } from 'primeng/fieldset';
 import { FileUploadModule } from 'primeng/fileupload';
@@ -54,7 +55,7 @@ import { PickListModule } from 'primeng/picklist';
 import { ProgressBarModule } from 'primeng/progressbar';
 import { RadioButtonModule } from 'primeng/radiobutton';
 import { RatingModule } from 'primeng/rating';
-import { ScheduleModule } from 'primeng/schedule';
+import { FullCalendarModule } from 'primeng/fullcalendar';
 import { ScrollPanelModule } from 'primeng/scrollpanel';
 import { SelectButtonModule } from 'primeng/selectbutton';
 import { SlideMenuModule } from 'primeng/slidemenu';
@@ -93,11 +94,12 @@ import { TreeTableModule } from 'primeng/treetable';
     ColorPickerModule,
     ConfirmDialogModule,
     ContextMenuModule,
-    DataScrollerModule,
+    VirtualScrollerModule,
     DataViewModule,
     DialogModule,
     DragDropModule,
     DropdownModule,
+    DynamicDialogModule,
     EditorModule,
     FieldsetModule,
     FileUploadModule,
@@ -127,7 +129,7 @@ import { TreeTableModule } from 'primeng/treetable';
     ProgressBarModule,
     RadioButtonModule,
     RatingModule,
-    ScheduleModule,
+    FullCalendarModule,
     SelectButtonModule,
     ScrollPanelModule,
     SlideMenuModule,
