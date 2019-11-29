@@ -31,7 +31,6 @@ import { FieldsetModule } from 'primeng/fieldset';
 import { FileUploadModule } from 'primeng/fileupload';
 import { GalleriaModule } from 'primeng/galleria';
 import { GMapModule } from 'primeng/gmap';
-import { GrowlModule } from 'primeng/growl';
 import { InplaceModule } from 'primeng/inplace';
 import { InputMaskModule } from 'primeng/inputmask';
 import { InputSwitchModule } from 'primeng/inputswitch';
@@ -105,7 +104,6 @@ import { TreeTableModule } from 'primeng/treetable';
     FileUploadModule,
     GalleriaModule,
     GMapModule,
-    GrowlModule,
     InplaceModule,
     InputMaskModule,
     InputSwitchModule,
