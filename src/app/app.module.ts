@@ -35,6 +35,7 @@ import { InplaceModule } from 'primeng/inplace';
 import { InputMaskModule } from 'primeng/inputmask';
 import { InputSwitchModule } from 'primeng/inputswitch';
 import { InputTextModule } from 'primeng/inputtext';
+import { InputNumberModule } from 'primeng/inputnumber';
 import { InputTextareaModule } from 'primeng/inputtextarea';
 import { LightboxModule } from 'primeng/lightbox';
 import { ListboxModule } from 'primeng/listbox';
@@ -109,6 +110,7 @@ import { TreeTableModule } from 'primeng/treetable';
     InputSwitchModule,
     InputTextModule,
     InputTextareaModule,
+    InputNumberModule,
     LightboxModule,
     ListboxModule,
     MegaMenuModule,
