@@ -20,7 +20,6 @@ import { ChartModule } from 'primeng/chart';
 import { CheckboxModule } from 'primeng/checkbox';
 import { ChipModule } from 'primeng/chip';
 import { ChipsModule } from 'primeng/chips';
-import { CodeHighlighterModule } from 'primeng/codehighlighter';
 import { ConfirmDialogModule } from 'primeng/confirmdialog';
 import { ColorPickerModule } from 'primeng/colorpicker';
 import { ContextMenuModule } from 'primeng/contextmenu';
@@ -35,7 +34,6 @@ import { EditorModule } from 'primeng/editor';
 import { FieldsetModule } from 'primeng/fieldset';
 import { FileUploadModule } from 'primeng/fileupload';
 import { GalleriaModule } from 'primeng/galleria';
-import { GMapModule } from 'primeng/gmap';
 import { InplaceModule } from 'primeng/inplace';
 import { InputMaskModule } from 'primeng/inputmask';
 import { InputSwitchModule } from 'primeng/inputswitch';
@@ -43,7 +41,6 @@ import { InputTextModule } from 'primeng/inputtext';
 import { InputNumberModule } from 'primeng/inputnumber';
 import { InputTextareaModule } from 'primeng/inputtextarea';
 import { KnobModule } from 'primeng/knob';
-import { LightboxModule } from 'primeng/lightbox';
 import { ListboxModule } from 'primeng/listbox';
 import { MegaMenuModule } from 'primeng/megamenu';
 import { MenuModule } from 'primeng/menu';
@@ -61,7 +58,6 @@ import { PickListModule } from 'primeng/picklist';
 import { ProgressBarModule } from 'primeng/progressbar';
 import { RadioButtonModule } from 'primeng/radiobutton';
 import { RatingModule } from 'primeng/rating';
-import { FullCalendarModule } from 'primeng/fullcalendar';
 import { ScrollPanelModule } from 'primeng/scrollpanel';
 import { ScrollTopModule } from 'primeng/scrolltop';
 import { SelectButtonModule } from 'primeng/selectbutton';
@@ -104,7 +100,6 @@ import { TreeTableModule } from 'primeng/treetable';
     CheckboxModule,
     ChipsModule,
     ChipModule,
-    CodeHighlighterModule,
     ColorPickerModule,
     ConfirmDialogModule,
     ContextMenuModule,
@@ -119,7 +114,6 @@ import { TreeTableModule } from 'primeng/treetable';
     FieldsetModule,
     FileUploadModule,
     GalleriaModule,
-    GMapModule,
     InplaceModule,
     InputMaskModule,
     InputSwitchModule,
@@ -127,7 +121,6 @@ import { TreeTableModule } from 'primeng/treetable';
     InputTextareaModule,
     InputNumberModule,
     KnobModule,
-    LightboxModule,
     ListboxModule,
     MegaMenuModule,
     MenuModule,
@@ -145,7 +138,6 @@ import { TreeTableModule } from 'primeng/treetable';
     ProgressBarModule,
     RadioButtonModule,
     RatingModule,
-    FullCalendarModule,
     SelectButtonModule,
     ScrollPanelModule,
     ScrollTopModule,

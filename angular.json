@@ -23,7 +23,9 @@
             "outputPath": "dist/primeng-issue-template",
             "index": "src/index.html",
             "main": "src/main.ts",
-            "polyfills": "src/polyfills.ts",
+            "polyfills": [
+                "zone.js"
+            ],
             "tsConfig": "tsconfig.app.json",
             "inlineStyleLanguage": "scss",
             "assets": [
@@ -35,8 +37,7 @@
                 "node_modules/primeng/resources/themes/saga-blue/theme.css",
                 "node_modules/primeng/resources/primeng.min.css",
                 "node_modules/primeflex/primeflex.css",
-                "node_modules/primeicons/primeicons.css",
-                "node_modules/@fullcalendar/core/main.css"
+                "node_modules/primeicons/primeicons.css"
             ],
             "scripts": []
           },
@@ -95,7 +96,9 @@
           "builder": "@angular-devkit/build-angular:karma",
           "options": {
             "main": "src/test.ts",
-            "polyfills": "src/polyfills.ts",
+            "polyfills": [
+                "zone.js"
+            ],
             "tsConfig": "tsconfig.spec.json",
             "karmaConfig": "karma.conf.js",
             "inlineStyleLanguage": "scss",
