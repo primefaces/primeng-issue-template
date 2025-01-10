@@ -25,7 +25,7 @@ import { Dialog } from 'primeng/dialog';
 import { DividerModule } from 'primeng/divider';
 import { Dock } from 'primeng/dock';
 import { DrawerModule } from 'primeng/drawer';
-import { DynamicDialog } from 'primeng/dynamicdialog';
+import { DynamicDialogModule } from 'primeng/dynamicdialog';
 import { Editor } from 'primeng/editor';
 import { Fieldset } from 'primeng/fieldset';
 import { FileUpload } from 'primeng/fileupload';
@@ -128,7 +128,7 @@ import { TreeTableModule } from 'primeng/treetable';
     DividerModule,
     Dock,
     DrawerModule,
-    DynamicDialog,
+    DynamicDialogModule,
     Editor,
     Fieldset,
     FileUpload,
@@ -228,7 +228,7 @@ import { TreeTableModule } from 'primeng/treetable';
     DividerModule,
     Dock,
     DrawerModule,
-    DynamicDialog,
+    DynamicDialogModule,
     Editor,
     Fieldset,
     FileUpload,
