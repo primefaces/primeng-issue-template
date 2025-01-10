@@ -4,7 +4,6 @@ import { PrimeNGModule } from './primeng.module';
 
 @Component({
   selector: 'app-root',
-  standalone: true,
   imports: [PrimeNGModule, FormsModule, ReactiveFormsModule],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss',
