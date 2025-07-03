@@ -8,7 +8,6 @@ import { AvatarModule } from "primeng/avatar";
 import { BadgeModule } from "primeng/badge";
 import { BreadcrumbModule } from "primeng/breadcrumb";
 import { ButtonModule } from "primeng/button";
-import { CalendarModule } from "primeng/calendar";
 import { CarouselModule } from "primeng/carousel";
 import { CascadeSelectModule } from "primeng/cascadeselect";
 import { ChartModule } from "primeng/chart";
@@ -21,14 +20,12 @@ import { DataViewModule } from "primeng/dataview";
 import { DialogModule } from "primeng/dialog";
 import { DividerModule } from "primeng/divider";
 import { DragDropModule } from "primeng/dragdrop";
-import { DropdownModule } from "primeng/dropdown";
 import { EditorModule } from "primeng/editor";
 import { FieldsetModule } from "primeng/fieldset";
 import { FileUploadModule } from "primeng/fileupload";
 import { GalleriaModule } from "primeng/galleria";
 import { InplaceModule } from "primeng/inplace";
 import { InputMaskModule } from "primeng/inputmask";
-import { InputSwitchModule } from "primeng/inputswitch";
 import { InputTextModule } from "primeng/inputtext";
 import { InputNumberModule } from "primeng/inputnumber";
 import { KnobModule } from "primeng/knob";
@@ -36,11 +33,9 @@ import { ListboxModule } from "primeng/listbox";
 import { MegaMenuModule } from "primeng/megamenu";
 import { MenuModule } from "primeng/menu";
 import { MenubarModule } from "primeng/menubar";
-import { MessagesModule } from "primeng/messages";
 import { MultiSelectModule } from "primeng/multiselect";
 import { OrderListModule } from "primeng/orderlist";
 import { OrganizationChartModule } from "primeng/organizationchart";
-import { OverlayPanelModule } from "primeng/overlaypanel";
 import { PaginatorModule } from "primeng/paginator";
 import { PanelModule } from "primeng/panel";
 import { PanelMenuModule } from "primeng/panelmenu";
@@ -57,9 +52,7 @@ import { SliderModule } from "primeng/slider";
 import { SplitButtonModule } from "primeng/splitbutton";
 import { SplitterModule } from "primeng/splitter";
 import { StepsModule } from "primeng/steps";
-import { TabMenuModule } from "primeng/tabmenu";
 import { TableModule } from "primeng/table";
-import { TabViewModule } from "primeng/tabview";
 import { TagModule } from "primeng/tag";
 import { TerminalModule } from "primeng/terminal";
 import { TieredMenuModule } from "primeng/tieredmenu";
@@ -83,7 +76,6 @@ import { ProgressSpinnerModule } from "primeng/progressspinner";
     BadgeModule,
     BreadcrumbModule,
     ButtonModule,
-    CalendarModule,
     CarouselModule,
     CascadeSelectModule,
     ChartModule,
@@ -96,14 +88,12 @@ import { ProgressSpinnerModule } from "primeng/progressspinner";
     DialogModule,
     DividerModule,
     DragDropModule,
-    DropdownModule,
     EditorModule,
     FieldsetModule,
     FileUploadModule,
     GalleriaModule,
     InplaceModule,
     InputMaskModule,
-    InputSwitchModule,
     InputTextModule,
     TextareaModule,
     InputNumberModule,
@@ -112,11 +102,9 @@ import { ProgressSpinnerModule } from "primeng/progressspinner";
     MegaMenuModule,
     MenuModule,
     MenubarModule,
-    MessagesModule,
     MultiSelectModule,
     OrganizationChartModule,
     OrderListModule,
-    OverlayPanelModule,
     PaginatorModule,
     PanelModule,
     PanelMenuModule,
@@ -135,8 +123,6 @@ import { ProgressSpinnerModule } from "primeng/progressspinner";
     SplitButtonModule,
     StepsModule,
     TableModule,
-    TabMenuModule,
-    TabViewModule,
     TagModule,
     TerminalModule,
     TieredMenuModule,
