@@ -26,7 +26,7 @@
     "@types/node": "24.0.10",
     "chart.js": "^3.3.2",
     "primeicons": "7.0.0",
-    "primeng": "^20.0.0-rc.1",
+    "primeng": "^20.3.0",
     "quill": "1.3.7",
     "rxjs": "~7.8.1",
     "tslib": "^2.5.0",
